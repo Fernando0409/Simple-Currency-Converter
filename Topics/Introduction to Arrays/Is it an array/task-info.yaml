@@ -1,0 +1,12 @@
+type: code
+custom_name: Is it an array?
+files:
+- name: main.js
+  visible: true
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/16150#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Thu, 28 Jul 2022 21:23:10 UTC
+record: -1
